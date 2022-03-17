@@ -1,1 +1,2 @@
 branch 3 file 2
+new line
